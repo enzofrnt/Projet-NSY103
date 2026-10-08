@@ -1,0 +1,11 @@
+.git
+.gitignore
+*.o
+bin/
+data/disque.img
+*.pdf
+*.md
+scripts/
+Dockerfile
+.dockerignore
+.DS_Store
